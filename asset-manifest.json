@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/operation-mess-with-thomas/static/css/main.2d208d89.css",
+    "main.js": "/operation-mess-with-thomas/static/js/main.86a88dda.js",
+    "static/js/787.be50865a.chunk.js": "/operation-mess-with-thomas/static/js/787.be50865a.chunk.js",
+    "static/media/decoder.png": "/operation-mess-with-thomas/static/media/decoder.9f86e553e3e727532522.png",
+    "static/media/meme2.png": "/operation-mess-with-thomas/static/media/meme2.8562e5e89403dfd9f965.png",
+    "index.html": "/operation-mess-with-thomas/index.html",
+    "main.2d208d89.css.map": "/operation-mess-with-thomas/static/css/main.2d208d89.css.map",
+    "main.86a88dda.js.map": "/operation-mess-with-thomas/static/js/main.86a88dda.js.map",
+    "787.be50865a.chunk.js.map": "/operation-mess-with-thomas/static/js/787.be50865a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d208d89.css",
+    "static/js/main.86a88dda.js"
+  ]
+}
