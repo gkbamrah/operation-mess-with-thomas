@@ -2,7 +2,6 @@
   "name": "cipher-boi",
   "version": "0.1.0",
   "homepage": "https://gkbamrah.github.io/operation-mess-with-thomas",
-
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
